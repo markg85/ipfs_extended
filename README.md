@@ -11,3 +11,4 @@ Or pull from docker hub using:
 
 # Running
 Follow the documentation from the official docker image to run it.
+See https://hub.docker.com/r/ipfs/go-ipfs
