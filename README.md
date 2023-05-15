@@ -4,7 +4,7 @@ Only it adds a few flags to the startup command. Namely: `--enable-pubsub-experi
 
 # Build instructions
 Just run:
-`docker build -t ipfs_extended --no-cache .`
+`docker build -t ipfs_extended --no-cache --pull .`
 
 Or pull from docker hub using:
 `docker pull markg85/ipfs_extended`
